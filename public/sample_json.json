@@ -1,0 +1,16 @@
+{
+    "title": "bowling",
+	"instruction": "The monster can only eat correct  number sentences.  Too many wrong sentences  will make him sick!<br><br>Tap the boot to stomp on the incorrect ones before they reach him.",
+	"Feedback0": "Good Work.",
+	"Feedback1": "Try another one.",
+	"visualData": {
+		
+		
+		"Digit": [4,6,7,8,9],
+		"Sign": ["X"]
+		
+		
+		
+	}	
+		
+}
